@@ -15,3 +15,9 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [Videos](#videos)
 * [Blogs](#blogs)
 * [Examples](#examples)
+
+## Books
+
+* [RxJS in Action](https://www.manning.com/books/rxjs-in-action)
+* [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
+* [Reactive Programming with Angular and ngrx: Learn to harness the power of reactive programming with RxJS and ngrx extensions](http://www.apress.com/cn/book/9781484226193)
