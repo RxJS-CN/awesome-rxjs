@@ -13,7 +13,7 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Videos](#videos)
-* [Blogs](#blogs)
+* [Articles](#articles)
 * [Examples](#examples)
 
 ## Books
