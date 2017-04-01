@@ -29,6 +29,15 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
 * [Reactive Programming with Angular and ngrx: Learn to harness the power of reactive programming with RxJS and ngrx extensions](http://www.apress.com/cn/book/9781484226193)
 
+## Tutorials
+
+* [Introduction to Reactive Programming - egghead.io](https://egghead.io/courses/introduction-to-reactive-programming)
+* [RxJS Beyond the Basics: Creating Observables from scratch - egghead.io](https://egghead.io/courses/rxjs-beyond-the-basics-creating-observables-from-scratch)
+* [Step-by-Step Async JavaScript with RxJS - egghead.io](https://egghead.io/courses/step-by-step-async-javascript-with-rxjs)
+* [RxJS Beyond the Basics: Operators in Depth - egghead.io](https://egghead.io/courses/rxjs-beyond-the-basics-operators-in-depth)
+* [RxJS Subjects and Multicasting Operators - egghead.io](https://egghead.io/courses/rxjs-subjects-and-multicasting-operators)
+* [Use Higher Order Observables in RxJS Effectively - egghead.io](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively)
+
 ## Articles
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
