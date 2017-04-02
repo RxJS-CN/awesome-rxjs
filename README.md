@@ -38,6 +38,20 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [RxJS Subjects and Multicasting Operators - egghead.io](https://egghead.io/courses/rxjs-subjects-and-multicasting-operators)
 * [Use Higher Order Observables in RxJS Effectively - egghead.io](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively)
 
+## Videos
+
+* [RxJS In-Depth - Ben Lesh](https://www.youtube.com/watch?v=KOOT7BArVHQ)
+* [RxJS 5 Thinking Reactively - Ben Lesh](https://www.youtube.com/watch?v=3LKMwkuK0ZE)
+* [Go beast mode with realtime reactive interfaces in Angular 2 & Firebase - Lukas Ruebbelke](https://www.youtube.com/watch?v=5CTL7aqSvJU)
+* [RxJS Observables Crash Course](https://www.youtube.com/watch?v=ei7FsoXKPl0)
+* [RXJS Evolved - Paul Taylor](https://www.youtube.com/watch?v=QhjALubBQPg)
+* [Ben Lesh Talks RxJS at Modern Web UI](https://www.youtube.com/watch?v=yk_6eU3Hcwo)
+* [You will learn RxJS at ng-europe 2016 - André Staltz](https://www.youtube.com/watch?v=uQ1zhJHclvs)
+* [RxJS: destroy the state machine! – Stenver Jerkku](https://www.youtube.com/watch?v=1abiJ9VBsDc)
+* [Reactive Programming with RxJS - James Churchill](https://www.youtube.com/watch?v=ajLD2K4ZUQ4)
+* [Async Redux Actions With RxJS - Ben Lesh](https://www.youtube.com/watch?v=sF5-V-Szo0c)
+* [RxJS 5 in-depth - Gerard Sans](https://www.youtube.com/watch?v=KTlay8cZdAk)
+
 ## Articles
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
