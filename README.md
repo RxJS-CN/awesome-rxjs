@@ -37,6 +37,7 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [RxJS Beyond the Basics: Operators in Depth - egghead.io](https://egghead.io/courses/rxjs-beyond-the-basics-operators-in-depth)
 * [RxJS Subjects and Multicasting Operators - egghead.io](https://egghead.io/courses/rxjs-subjects-and-multicasting-operators)
 * [Use Higher Order Observables in RxJS Effectively - egghead.io](https://egghead.io/courses/use-higher-order-observables-in-rxjs-effectively)
+* [Angular 2 Tutorial - What is an Observable ? Introduction to Streams and RxJs Observables](https://www.youtube.com/watch?v=Sol2uLolmUM)
 
 ## Videos
 
