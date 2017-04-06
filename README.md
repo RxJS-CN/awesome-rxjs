@@ -54,6 +54,7 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [Reactive Programming with RxJS - James Churchill](https://www.youtube.com/watch?v=ajLD2K4ZUQ4)
 * [Async Redux Actions With RxJS - Ben Lesh](https://www.youtube.com/watch?v=sF5-V-Szo0c)
 * [RxJS 5 in-depth - Gerard Sans](https://www.youtube.com/watch?v=KTlay8cZdAk)
+* [Introduction to RxJS Observables and Angular - Cory Rylan](https://coryrylan.com/blog/introduction-to-rxjs-observables-and-angular)
 
 ## Articles
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
