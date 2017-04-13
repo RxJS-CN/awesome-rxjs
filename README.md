@@ -58,6 +58,7 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 * [Reactive Programming with RxJS A Beginner’s Perspective - TRACY LEE and BEN LESH](https://www.youtube.com/watch?v=aZRJOVPMW4k)
 * [RxJS: The Good Parts - Christopher Gosselin & Daniel Figueiredo Caetano
 ](https://www.youtube.com/watch?v=TszoFCFydiM)
+* [Integrating Angular with RESTful Services using RxJS and Observables](https://www.youtube.com/watch?v=YxK4UW4UfCk)
 
 ## Articles
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
