@@ -63,8 +63,8 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 
 ## Articles
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-* [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0)
-* [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339?source=user_profile---------10-----------)
+* [RxJS — Six Operators That you Must Know](https://netbasal.com/rxjs-six-operators-that-you-must-know-5ed3b6e238a0) ([简体中文](https://github.com/RxJS-CN/rxjs-articles-translation/blob/master/articles/Six-Operators-That-You-Must-Know.md))
+* [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339?source=user_profile---------10-----------) ([简体中文](https://github.com/RxJS-CN/rxjs-articles-translation/blob/master/articles/Hot-Vs-Cold-Observables.md))
 * [RxJS: Don’t Unsubscribe](https://medium.com/@benlesh/rxjs-dont-unsubscribe-6753ed4fda87)
 * [Understanding Subjects in RxJS](https://netbasal.com/understanding-subjects-in-rxjs-55102a190f3)
 * [On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)
