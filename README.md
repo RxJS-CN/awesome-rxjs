@@ -84,6 +84,8 @@ _Source:_ [RxJS Document](http://reactivex.io/rxjs/)
 ## Examples
 
 * [Angular + RxJS Chat](https://github.com/ng-book/angular2-rxjs-chat)
+* [Angular + RxJS TodoList](https://github.com/RxJS-CN/angular-rxjs-todos)
+* [React + RxJS TodoList](https://github.com/RxJS-CN/react-rxjs-todos)
 
 ## Resources
 
